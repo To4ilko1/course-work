@@ -32,7 +32,11 @@
 ![](https://github.com/To4ilko1/course-work/blob/master/resources/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.png "Диаграмма компонентов")
 ### Диаграмма интерфейсов.
 ![](https://github.com/To4ilko1/course-work/blob/master/resources/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%BE%D0%B2.png "Диаграмма интерфейсов")
-### Проект интерфейса сайта.
-![](https://github.com/To4ilko1/tattoo-parlor/blob/master/resources/Диаграмма%20компонентов.jpg "Скриншот №1")
+### Проект интерфейса сайта. Макет главной страницы.
+![](https://github.com/To4ilko1/course-work/blob/master/resources/Main_page.png "Макет главной страницы")
+### Проект интерфейса сайта. Макет страницы бронирования.
+![](https://github.com/To4ilko1/course-work/blob/master/resources/Order_page.png "Макет страницы бронирования")
+### Проект интерфейса сайта. Макет страницы бронирования. Мобильная версия.
+![](https://github.com/To4ilko1/course-work/blob/master/resources/M_order_page.png "Макет страницы бронирования. Мобильная версия")
 ## Реализация системы
 Реализация системы включает в себя особенности и интерфейс разработанной системы, тесты на пользовательский интерфейс, клиент-серверное приложение, WCF-служба и клиенты, HTTP-сервер и клиенты, GraphQL.
